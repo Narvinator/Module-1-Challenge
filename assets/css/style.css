@@ -24,7 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
- div {
+ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ h1 {
     font-size: 20px;
 }
 
-div ul {
+ul {
     list-style-type: none;
 }
 
-div ul li {
+ul li {
     display: inline-block;
     margin-left: 25px;
 }
