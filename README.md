@@ -8,8 +8,7 @@ For this project, the HTML file was initially filled with div elements and I cor
 
 This screenshot was taken as seen in the file name at the top, and my project screenshotted side-by-side in the gallery.
 
+##
 
-
-
-
-Repository contains a quality README file with description, screenshot, and link to deployed application
+Link to the deployed website is as follows: [GitHub Page]
+(https://narvinator.github.io/narvinators-module-1-challenge/)
