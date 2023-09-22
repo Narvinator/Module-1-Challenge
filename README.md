@@ -10,7 +10,6 @@ For this project, the HTML file was initially filled with div elements and I cor
 /screenshot-homework.png)
 
 
-
 This screenshot was taken as seen in the file name at the top, and my project screenshotted side-by-side in the gallery.
 
 ##
