@@ -6,9 +6,7 @@ For this project, the HTML file was initially filled with div elements and I cor
 
 ## My project compared with the demo
 
-[My project to the left, with the demo image on the right](/assets/images
-/screenshot-homework.png)
-
+[My project to the left, with the demo image on the right] (https://github.com/Narvinator/narvinators-module-1-challenge/blob/main/assets/images/screenshot-homework.png)
 
 This screenshot was taken as seen in the file name at the top, and my project screenshotted side-by-side in the gallery.
 
