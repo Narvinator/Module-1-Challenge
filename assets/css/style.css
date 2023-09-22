@@ -7,7 +7,10 @@
 body {
     background-color: #d9dcd6;
 }
- 
+
+/* Header classes were removed and replaced with the according semantic elements*/
+
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +43,8 @@ ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Header CSS changes end here */
 
 a {
     color: #ffffff;
@@ -100,6 +105,8 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+ /* Benefit H3 classes were consolidated into 1 element */
 
 h3 {
     margin-bottom: 10px;
@@ -177,6 +184,8 @@ h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer was changed from class to element */
 
 footer {
     padding: 30px;
